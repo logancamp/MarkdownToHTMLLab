@@ -8,9 +8,7 @@ This project is a simple Kotlin OOP program that takes the input of a Markdown f
 <h2>Program walk-through:</h2>
 <p align="center">
 Markdown Test Example (includes convertable Markdown attributes): <br/>
-<img src="https://imgur.com/W8UmFRO" height="80%" width="80%" alt="Markdown Example"/>
-<br />
-<br />
+[Imgur](https://i.imgur.com/W8UmFRO.png)<br />
 File Path Location:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="File Path"/>
 <br />
