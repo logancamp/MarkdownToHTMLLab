@@ -5,7 +5,7 @@ This project is a simple Kotlin OOP program that takes the input of a Markdown f
 <h2>Languages and Utilities Used</h2>
 - <b>Kotlin</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Program walk-through:</h2><br/>
 <p align="center">
 Markdown Test Example (includes convertable Markdown attributes): <br/>
 <img src="https://i.imgur.com/W8UmFRO.png" height="80%" width="80%" alt="Markdown Example"/>
