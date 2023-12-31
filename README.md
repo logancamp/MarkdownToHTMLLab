@@ -12,12 +12,12 @@ Markdown Test Example (includes convertable Markdown attributes): <br/>
 <br/>
 <br/>
 File Path Location:  <br/>
-<img src="https://i.imgur.com/W8UmFRO.png" height="80%" width="80%" alt="File Path"/>
+<img src="https://i.imgur.com/dSeSh3e.png" height="80%" width="80%" alt="File Path"/>
 <br />
 <br />
 Output: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ENOBROk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YGBHfH9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
